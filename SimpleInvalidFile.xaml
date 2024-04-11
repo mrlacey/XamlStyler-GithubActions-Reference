@@ -1,0 +1,11 @@
+﻿<UserControl x:Class="EncodingBug.UserControlUtf8Bom"
+			 xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+			 xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+	<Grid
+    >
+        <TextBlock 
+                      Text="This file DOES NOT meet the defined styling settings"
+                  />
+	 </Grid>
+</UserControl>
